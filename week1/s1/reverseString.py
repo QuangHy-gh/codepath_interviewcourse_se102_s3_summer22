@@ -19,6 +19,6 @@ class Solution:
 
 if __name__ == "__main__":
     sol = Solution()
-    str = "yendyS ,yaW yballaW 24"
+    str = "bob"
     list_str = list(str)
     print("".join(sol.reverseString(list_str)))
